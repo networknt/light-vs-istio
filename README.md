@@ -1,4 +1,4 @@
-# light-vs-istio
+# light-vs-istio test
 Compare light-4j service mesh plus with Istio service mesh in Kubernetes cluster
 
 ### Introduction
